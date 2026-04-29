@@ -1,0 +1,40 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and downloaded weights
+models/
+hf_cache/
+
+# Outputs and temp files
+outputs/
+temp/
+*.mp4
+*.avi
+*.mov
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
